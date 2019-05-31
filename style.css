@@ -1,0 +1,60 @@
+body{
+  overflow-x: hidden;
+}
+
+#topheader{
+  border-bottom:1px solid #ebebeb;
+}
+#topheader a{
+  color:#2d3436;
+  font-weight:600;
+  font-size:0.89rem;
+}
+.container-fluid{
+  padding-right: 0;
+  padding-left:0;
+}
+nav ul li a{
+  font-size:1.1rem;
+  font-weight: 400;
+}
+/*Top footer start*/
+footer{
+  background-color: #34495e;
+}
+footer p{
+  color:white;
+}
+footer a{
+  color:white;
+}
+footer p a{
+  font-weight: 600;
+  color:white;
+}
+footer h3{
+  color:white;
+}
+.footer-bottom{
+  background-color:#243d4f;
+
+}
+/*Top footer end */
+
+/*Top section : start*/
+.section-top{
+  background-color: #3498db;
+  color: white;
+}
+.section-top a{
+  color:white;
+  font-weight: 600;
+}
+/*section-requirement:start*/
+.section-requirement{
+  background-color: #004d80;
+  color: white;
+}
+
+/*section-aboutstore:start*/
+/*section-aboutstore:start*/
