@@ -56,5 +56,24 @@ footer h3{
   color: white;
 }
 
-/*section-aboutstore:start*/
-/*section-aboutstore:start*/
+/* Firdosi store Header: Start*/
+.cement{
+  font-size: 1rem;
+  color:  #45423e;
+  font-weight: 500;
+   word-spacing: 3px;
+   line-height: 1.3rem;
+}
+/* Firdosi store Header: End*/
+
+.product-cement .container .row2 ul li:before, .pvcpipes .container .row ul li:before{
+  content:"\2022";
+  font-weight: block;
+  color:#fff;
+  display: inline-block;
+  width:1em;
+  margin-left:-1em;
+} 
+.product-cement .container .row2 .col2{
+
+}
